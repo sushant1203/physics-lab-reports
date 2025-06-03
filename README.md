@@ -18,10 +18,6 @@ The PDF reports linked below are derived from this detailed lab book work.
 
 Below are the individual lab reports included in this collection:
 
-## 🔬 Lab Reports
-
-Below are the individual lab reports included in this collection:
-
 1.  **Lab 1: Resistivity**
     * **Aim:** Determine the resistivity of a wire using a micrometre, ammeter, and voltmeter.
     * **Description:** This experiment involved applying Ohm's Law and understanding factors affecting material resistance to calculate resistivity based on measured dimensions and electrical properties.

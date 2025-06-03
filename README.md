@@ -1,4 +1,4 @@
-# University Physics Laboratory Reports
+# Physics Laboratory Reports
 
 ## 📜 Repository Overview
 

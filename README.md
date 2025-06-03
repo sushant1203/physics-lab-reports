@@ -11,6 +11,8 @@ Each experiment was meticulously documented in a lab book, following rigorous gu
 * Thoughtful **conclusions** reflecting on the aims, expected results, and potential improvements.
 All entries were made contemporaneously, with any errors crossed out and explained, adhering to professional engineering practice.
 
+Collaborative Project with: ...
+
 ---
 
 The PDF reports linked below are derived from this detailed lab book work.
@@ -22,19 +24,19 @@ Below are the individual lab reports included in this collection:
     * **Aim:** Determine the resistivity of a wire using a micrometre, ammeter, and voltmeter.
     * **Description:** This experiment involved applying Ohm's Law and understanding factors affecting material resistance to calculate resistivity based on measured dimensions and electrical properties.
     * **Key Equipment Used:** Approx. 1m of constantan wire, DC supply, Multimeter (used as ammeter and voltmeter), Resistor 10 Ω, Crocodile clips, Connecting leads, Metre ruler, Micrometre.
-[View Resistivity Lab Report](lab1_resistivity.pdf)`
+[View Resistivity Lab Report](lab1_resistivity.pdf)
 
 2.  **Lab 2: Snell's Law & Refractive Index**
     * **Aim:** To find the refractive index of a glass block.
     * **Description:** This investigation focused on the refraction of light, verifying Snell's Law by measuring angles of incidence and refraction to determine the refractive index.
     * **Key Equipment Used:** Glass block, Light source (ray box), Coloured filters and slits, Ruler, Protractor (implied for measuring angles), Graph paper.
-[View Snell's Law Lab Report](lab3_snellslaw_.pdf)`
+[View Snell's Law Lab Report](lab3_snellslaw_.pdf)
 
 3.  **Lab 3: Specific Heat Capacity (SHC)**
     * **Aim:** Determine the specific heat capacity of two of the blocks you are given.
     * **Description:** This experiment involved calorimetry, precise temperature measurements, and energy transfer calculations to determine the specific heat capacity of different materials.
     * **Key Equipment Used:** Three 1 kg calorimetry blocks (copper, steel, aluminium), Electric heater, Thermometer, Leads, Multimeter, Stopwatch, Insulation.
-[View Specific Heat Capacity Lab Report](lab4_SHC.pdf)`
+[View Specific Heat Capacity Lab Report](lab4_SHC.pdf)
 
 ---
 

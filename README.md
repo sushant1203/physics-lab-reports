@@ -11,7 +11,15 @@ Each experiment was meticulously documented in a lab book, following rigorous gu
 * Thoughtful **conclusions** reflecting on the aims, expected results, and potential improvements.
 All entries were made contemporaneously, with any errors crossed out and explained, adhering to professional engineering practice.
 
-Collaborative Project with: ...
+---
+
+### Methodology & Collaboration
+
+This project was conducted in two distinct phases:
+
+* **Experimental Phase:** The hands-on setup of the experiment and the collection of raw data were performed collaboratively with a lab partner, **[Daniel Anisoreac]** - GitHub: **[@DAnisoreac](https://github.com/DAnisoreac)**
+
+* **Analysis and Reporting Phase:** The processing of the collected data, all scientific analysis, interpretation of results, and the writing of this lab report are **my own original and individual work.**
 
 ---
 
@@ -60,8 +68,11 @@ These laboratory exercises and the accompanying reports demonstrate proficiency 
 
 ---
 
-## 📄 License
+## 📄 Copyright and Licensing
+Copyright (c) 2025 [Sushant Jasra Kumar]
 
-* © [2025] [Sushant Jasra Kumar] All Rights Reserved.
+The code for all projects in this portfolio is licensed under the **[MIT License](https://github.com/sushant1203/sushant1203/blob/main/LICENSE)**.
+
+All non-code assets, including PDF documents, images, and visual designs, are dedicated to the public domain under the **[Creative Commons Zero v1.0 Universal (CC0 1.0)](https://github.com/sushant1203/sushant1203/blob/main/LICENSE2)**.
 
 ---
